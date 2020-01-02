@@ -29,7 +29,7 @@ public class UerServiceImpl implements UserService {
             String result = "数据库的值";
             string.set(key,result);
             System.out.println("编写的值"+result);
-            return result ;
+            return result;
         }
     }
 }
