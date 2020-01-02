@@ -14,7 +14,4 @@ public class User implements Serializable {
     private String username;
     private Integer age;
 
-   public static String getKeyName(){
-       return "user:";
-   }
 }
